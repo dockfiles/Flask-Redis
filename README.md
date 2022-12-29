@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/flask-redis)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209975667-e56b9788-58d7-4fe3-ac95-3e4ad4f6c6ef.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/flask-redis)
 
 ### Python/Flask application using a Redis database
 
@@ -19,7 +19,7 @@ Project structure:
 └── requirements.txt
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 
 ```
 services:
